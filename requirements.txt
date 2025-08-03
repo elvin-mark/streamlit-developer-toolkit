@@ -1,0 +1,9 @@
+streamlit
+numpy
+pandas
+matplotlib
+scapy
+requests
+psycopg2
+qrcode
+bcrypt
